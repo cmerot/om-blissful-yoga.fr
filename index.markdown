@@ -5,4 +5,3 @@
 layout: home
 ---
 
-![Logo Om Blissful Yoga][/assets/logo-yoga-blissful.jpeg]
